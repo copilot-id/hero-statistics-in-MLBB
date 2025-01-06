@@ -1,11 +1,15 @@
 # MLBB Hero Winrate and Counter
 
+---
+
 ## Project Announcement
 
 > **⚠️ Warning:** We are excited to announce that this project has been moved to a new repository. For updated documentation and further details, please visit the following links:
 > 
 > - New Repository: [api-mobilelegends](https://github.com/ridwaanhall/api-mobilelegends)
 > - Documentation: [MLBB Hero Analytics API](https://api-mobilelegends.vercel.app)
+
+---
 
 ## Overview
 
